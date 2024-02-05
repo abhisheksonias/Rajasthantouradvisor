@@ -1,0 +1,3 @@
+# Rajasthan Tour Advisor in Bangalore
+User-agent: *
+Disallow: 
