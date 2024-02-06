@@ -1038,7 +1038,7 @@ video {
       margin-top: 0%;
   }
   .discover h1{
-     font-size: 1.5rem;
+     font-size: .8rem;
   }
   .discover h2{
      font-size: 1.5rem;
@@ -1068,7 +1068,7 @@ video {
   .footer-mail p {
       padding-left: 4px;
       padding-right: 4px;
-      font-size: .85rem; /* Adjust font size as needed */
+      font-size: .8rem; 
   }
 }
 @media (max-width: 768px) {
@@ -1096,7 +1096,7 @@ video {
     height: 100%;
     
 }
-  .bg-header2 h1 {
+  .bg-header2 h2 {
       font-size: 1.2rem; 
   }
 
