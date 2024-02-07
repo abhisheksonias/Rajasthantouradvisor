@@ -1,3 +1,4 @@
 # Rajasthan Tour Advisor in Bangalore
 User-agent: *
-Disallow: 
+Disallow:
+Sitemap: https://www.rajasthantouradvisor.in/sitemap.xml
